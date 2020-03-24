@@ -1,8 +1,7 @@
-# hms
-Hall Management System
+# Hall Management System
 Undergraduate Project Based on C Programming Language
 
-A simple console base Residential Hall/Mess Management System
+A simple console based Residential Hall/Mess Management System
 
 
 ## Project Team
