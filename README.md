@@ -16,6 +16,7 @@ Bangladesh Army University of Science & Technology (BAUST)
 
 ## Screenshots
 
+![Login_Screen](screenshots/Login_Screen.jpg "Login Screen")
 ![Main_Screen](screenshots/Main_Screen.jpg "Main Screen")
 ![Add_Student](screenshots/Add_Student.jpg "Add Student")
 ![Modify_Student](screenshots/Modify_Student.jpg "Modify Student")
@@ -26,6 +27,7 @@ Bangladesh Army University of Science & Technology (BAUST)
 ![Bill_Info](screenshots/Bill_Info.jpg "Bill Info")
 ![Settings](screenshots/Settings.jpg "Settings")
 ![Meal_Charge](screenshots/Meal_Charge.jpg "Meal Charge")
+![Edit_Password](screenshots/Edit_Password.jpg "Edit Password")
 
 ## LICENSE
 
