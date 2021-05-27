@@ -1,5 +1,7 @@
 *.exe
 *.o
 *.dat
+*.py
+
 /bills
 /backup

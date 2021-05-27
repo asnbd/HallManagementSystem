@@ -1,20 +1,34 @@
 # Hall Management System
+
 Undergraduate Project Based on C Programming Language
 
 A simple console based Residential Hall/Mess Management System
 
-
 ## Project Team
-* **Asswad Sarker Nomaan (ID: 160101006)**
-* **Mst. Monakkara Begum (ID: 160101026)**
-* **Abdullah Al Baki (ID: 160101004)**
 
+- **Asswad Sarker Nomaan (ID: 160101006)**
+- **Mst. Monakkara Begum (ID: 160101026)**
+- **Abdullah Al Baki (ID: 160101004)**
 
 Department of Computer Science & Engineering (CSE)
 
 Bangladesh Army University of Science & Technology (BAUST)
 
-# LICENSE
+## Screenshots
+
+![Main_Screen](screenshots/Main_Screen.jpg "Main Screen")
+![Add_Student](screenshots/Add_Student.jpg "Add Student")
+![Modify_Student](screenshots/Modify_Student.jpg "Modify Student")
+![Student_List](screenshots/Student_List.jpg "Student List")
+![Edit_Meal_1](screenshots/Edit_Meal_1.jpg "Edit Meal 1")
+![Edit_Meal](screenshots/Edit_Meal.jpg "Edit Meal")
+![Bill_Info_Menu](screenshots/Bill_Info_Menu.jpg "Bill Info Menu")
+![Bill_Info](screenshots/Bill_Info.jpg "Bill Info")
+![Settings](screenshots/Settings.jpg "Settings")
+![Meal_Charge](screenshots/Meal_Charge.jpg "Meal Charge")
+
+## LICENSE
+
 ```
 MIT License
 
